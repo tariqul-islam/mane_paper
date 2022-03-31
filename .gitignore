@@ -1,4 +1,6 @@
 # Things that are ignored
+README.md~
+.gitignore~
 .ipynb_checkpoints
 Fashion-MNIST/.ipynb_checkpoints
 MNIST/.ipynb_checkpoints
