@@ -8,3 +8,14 @@ Two-dimensional embedding of Fashion-MNIST data. (Left) UMAP embedding of 60,000
 ![Embedding of Shared Points](/images/D0D0_FMNIST.svg)
 Shared data points from the two-dimensional embedding of the Fashion-MNIST dataset of the figure above. (Left) Individual UMAPs of sets $D^{(1)}$ and $D^{(2)}$ show that the shared information is not aligned between two datasets. (Middle) Aligned UMAP shows close alignment between the shared points. (Right) MANE shows best alignment between the shared points.
 
+If you find this code useful, please consider citing the following paper:
+
+```
+@inproceedings{islam2022manifold,
+  title={Manifold-aligned Neighbor Embedding},
+  author={Islam, Mohammad Tariqul and Fleischer, Jason W},
+  booktitle={ICLR 2022 Workshop on Geometrical and Topological Representation Learning},
+  year={2022}
+}
+
+```
